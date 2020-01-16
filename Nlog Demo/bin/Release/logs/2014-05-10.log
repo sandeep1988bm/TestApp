@@ -1,0 +1,28 @@
+2014-05-10 12:12:05.7530 | NLog_to_file.TestingNLog | TRACE | The chatter of people on the street
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:05.7800 | NLog_to_file.TestingNLog | DEBUG | Where are you going and why?
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:05.7800 | NLog_to_file.TestingNLog | INFO | What bus station you're at.
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:05.7800 | NLog_to_file.TestingNLog | WARN | You're playing on the phone and not looking up for your bus
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:05.7800 | NLog_to_file.TestingNLog | ERROR | You get on the wrong bus.
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:05.7800 | NLog_to_file.TestingNLog | FATAL | You are run over by the bus.
+    NLog_to_file.TestingNLog.SimpleDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.SimpleDemo
+2014-05-10 12:12:20.8797 | NLog_to_file.TestingNLog | TRACE | All the chatter between SO & BGFF about the different shades of
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:20.8917 | NLog_to_file.TestingNLog | TRACE | pink and how they might or might not match the shoes.
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:21.4634 | NLog_to_file.TestingNLog | DEBUG | Your SO emotional level. Influenced usually by the day
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:21.4634 | NLog_to_file.TestingNLog | DEBUG | of month, and how her last chat with her mother ended.
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:21.8318 | NLog_to_file.TestingNLog | INFO | Which store are you at.
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:22.1271 | NLog_to_file.TestingNLog | WARN | Your SO asks: "Does my ass look fat in this?".
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:22.3673 | NLog_to_file.TestingNLog | ERROR | You hesitate before answering.
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
+2014-05-10 12:12:22.6477 | NLog_to_file.TestingNLog | FATAL | You answer the above question wrongly.
+    NLog_to_file.TestingNLog.InteractiveDemo | AppDomain._nExecuteAssembly => TestingNLog.Main => TestingNLog.InteractiveDemo
